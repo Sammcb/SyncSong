@@ -1,3 +1,4 @@
+# SyncSong
 To enable universal links on Mac, enable developer mode:
 swcutil developer-mode -e true
 
